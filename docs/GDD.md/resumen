@@ -1,0 +1,14 @@
+# GDD - Eclipse Protocol (NovaForge Studios)
+## Elevator pitch
+Eclipse Protocol es un survival-tactics 3D: partidas cortas, recursos limitados y una IA ambiental llamada *Nexus* que aprende de tus tácticas y cambia sus patrones.
+
+## Core loops
+- Micro: explorar → recolectar → manipular forjas → evadir/atacar → extraer recompensa.
+- Macro: mejorar patrón de forja, desbloquear habilidades, competir en ranked.
+
+## MVP features
+- Movement & camera 3D
+- Inventory minimal (pick up/drop)
+- One procedural map module
+- One adaptive AI prototype (simple rule learner)
+- UI minimal: health, energy, radar

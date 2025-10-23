@@ -1,0 +1,12 @@
+# Godot
+.godot/
+.import/
+.export/
+*.mono/
+.bin/
+.vscode/
+.idea/
+builds/
+*.exe
+*.pdb
+*.user
